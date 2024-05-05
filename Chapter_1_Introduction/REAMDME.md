@@ -5,7 +5,7 @@ Available [here](https://github.com/asiedu-kev/ADS-Course)
 
 ## Organize Your Repository ✅
 
-## Solve Introductory Exercises  ⌛️
+## Solve Introductory Exercises  ✅
 
 ### Estimation Solutions 
 1.21 - No, i've just got at most 300 pages per books and i have 
