@@ -31,3 +31,8 @@ c = (2exp(2n)/2exp(n)) => c = 2exp(n)
 c is not independant of n so the c is not constant and c doesn't exist...The assertion is false.
 
 
+2.12 - Prove that n3 −3n2 −n+1 = Θ(n3).
+n3 + 1 >= 3n2 + n => Θ(n3 + 1) >= Θ(3n2 + n)
+ => Θ(n3-3n2-n +1) >= 0 or Θ(n3 +1) = Θ(n3)
+D'ou n3 −3n2 −n+1 = Θ(n3);
+ 
